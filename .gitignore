@@ -1,0 +1,13 @@
+# Arquivos de build e dependências
+node_modules/
+build/
+dist/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+.cache/
